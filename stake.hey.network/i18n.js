@@ -122,7 +122,7 @@ var txt = {
 				"fr": "Guide de <em>Staking</em>",
 				"en": "Staking Guide",
 				"jp": "<em>Staking</em>ガイド",
-				"pl": "Przewodnik - jak zarobić"
+				"pl": "Przewodnik - jak zarabiać"
 			},
 			"website":{
 				"fr": "Site web Hey",
