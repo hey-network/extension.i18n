@@ -1,1 +1,1 @@
-# extension.i18n
+# hey.i18n
