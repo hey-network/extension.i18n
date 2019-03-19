@@ -4,14 +4,31 @@
 // ██║     ██╔══██║██║╚██╗██║██║   ██║██║   ██║██╔══██║██║   ██║██╔══╝
 // ███████╗██║  ██║██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝███████╗
 // ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-/* LANGUAGE
-|  
+// language file for https://stake.hey.network
+/*
+|  # FORMAT
 |  language code format: ISO 639-1
 |  refer to this list: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 |
+|  # INSTRUCTIONS
+|  you can either submit a pull request (highly preferred)
+|  or send a translation file to this email address: nab@hey.network
+|  1. Add you language name in the first object (LANGUAGES_LIST). Please
+|  use the ISO 639-1 language code (link provided above)
+|  2. Translate every sub object. You have some examples, follow the lead,
+|  You should be fine. If you have any question, ask us on our Hey page.
+|  3. Don't have Hey yet? Get it on https://hey.network
+|  Join the chat on hey.network
+|
 */
-var txt = {
-	// GENERAL
+
+const LANGUAGES_LIST = {
+  "en": "English",
+  "fr": "Français",
+  "jp": "日本語",
+  "pl": "Język polski"
+};
+const txt = {
 	"general": {
 		"confirm": {
 			"fr": "OK",
