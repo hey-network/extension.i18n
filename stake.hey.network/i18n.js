@@ -24,10 +24,10 @@
 */
 
 const LANGUAGES_LIST = {
-  "en": "English",
-  "fr": "Français",
-  "jp": "日本語",
-  "pl": "Polski"
+	"en": "English",
+	"fr": "Français",
+	"jp": "日本語",
+	"pl": "Polski"
 };
 const txt = {
 	"general": {
@@ -69,17 +69,17 @@ const txt = {
 			"jp": "最初の100万人のユーザー向け",
 			"pl": "dla pierwszego miliona użytkowników"
 		},
-    "title": {
+		"title": {
 			"fr": "Délégez vos <span class=\"grad\">LOOM</span> et <span class=\"grad\">gagnez en encore plus</span>",
 			"en": "Delegate <span class=\"grad\">LOOM</span> and <span class=\"grad\">earn rewards</span>",
 			"jp": "<span class=\"grad\">#ハッシュ</span> と <span class=\"grad\">トレンドトピックでチャット</span>",
-	    		"pl": "Delegat <span class=\"grad\">LOOM</span> - <span class=\"grad\">zdobywaj nagrody</span>"
+			"pl": "Delegat <span class=\"grad\">LOOM</span> - <span class=\"grad\">zdobywaj nagrody</span>"
 		},
-    "nfo": {
+		"nfo": {
 			"fr": "Un jeu d'enfant, en 3 minutes, rentabilisez vos LOOM tant qu'il ne sont pas encore utiles.",
 			"en": "Nothing is easier, it only takes 3 minutes, make profit out of your LOOMs while you can't do anything with them so far.",
 			"jp": "簡単なことは何もありません、それは3分しかかかりません、あなたがこれまでのところ彼らと何もすることができない間あなたの織機から利益を得ます",
-	    		"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM"
+			"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM"
 		},
 		"stake": {
 			"fr": "Stakez vos LOOM",
@@ -93,62 +93,62 @@ const txt = {
 			"jp": "Telegram で私たちに参加",
 			"pl": "Dołącz do nas na Telegramie"
 		},
-    "join": {
+		"join": {
 			"fr": "Rejoignez nous sur Telegram pour poser des questions ou nous rencontrer: <span class=\"fluo\">#StakeHeyNetwork</span>",
 			"en": "Hey Loomers ! We, at <span class=\"fluo\">#Hey</span>, are almost ready to give you tons of information about <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Staking</span> and <span class=\"fluo\">#Rewards</span>. Put your Looms at use and make some returns!",
 			"jp": "<span class=\"fluo\">#HeyNetwork</span> のディスカッションに参加しましょう",
-	    		"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!"
+			"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!"
 		},
-		"footer":{
-			"copyright":{
+		"footer": {
+			"copyright": {
 				"fr": "Copyright",
 				"en": "Copyright",
 				"jp": "著作権",
 				"pl": "Prawa autorskie"
 			},
-			"rights":{
+			"rights": {
 				"fr": "Tous droits réservés.",
 				"en": "All rights Reserved.",
 				"jp": "全著作権所有",
 				"pl": "Wszelkie prawa zastrzeżone."
 			},
-			"aboutUs":{
+			"aboutUs": {
 				"fr": "A propos",
 				"en": "About us",
 				"jp": "私たちに関しては",
 				"pl": "O nas"
 			},
-			"manifesto":{
+			"manifesto": {
 				"fr": "Manifesto",
 				"en": "Manifesto",
 				"jp": "マニフェスト",
 				"pl": "Manifest"
 			},
-			"support":{
+			"support": {
 				"fr": "Support",
 				"en": "Support",
 				"jp": "補助",
 				"pl": "Wsparcie"
 			},
-			"contactUs":{
+			"contactUs": {
 				"fr": "Contactez-nous",
 				"en": "Contact us",
 				"jp": "お問い合わせ",
 				"pl": "Kontakt"
 			},
-			"stakingGuide":{
+			"stakingGuide": {
 				"fr": "Guide de <em>Staking</em>",
 				"en": "Staking Guide",
 				"jp": "<em>Staking</em>ガイド",
 				"pl": "Przewodnik - jak zarabiać"
 			},
-			"website":{
+			"website": {
 				"fr": "Site web Hey",
 				"en": "Hey website",
 				"jp": "<em>Hey</em> ウェブサイト",
 				"ok": "Strona Hey"
 			},
-			"dashboard":{
+			"dashboard": {
 				"fr": "Tableau de bord",
 				"en": "Dashboard",
 				"jp": "計器盤",
