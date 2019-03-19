@@ -26,7 +26,7 @@ const LANGUAGES_LIST = {
   "en": "English",
   "fr": "Français",
   "jp": "日本語",
-  "pl": "Język polski"
+  "pl": "Polski"
 };
 const txt = {
 	"general": {
@@ -72,13 +72,13 @@ const txt = {
 			"fr": "Délégez vos <span class=\"grad\">LOOM</span> et <span class=\"grad\">gagnez en encore plus</span>",
 			"en": "Delegate <span class=\"grad\">LOOM</span> and <span class=\"grad\">earn rewards</span>",
 			"jp": "<span class=\"grad\">#ハッシュ</span> と <span class=\"grad\">トレンドトピックでチャット</span>",
-	    		"pl": "Delegat <span class=\"grad\">LOOM</span> i <span class=\"grad\">zdobywaj nagrody</span>"
+	    		"pl": "Delegat <span class=\"grad\">LOOM</span> - <span class=\"grad\">zdobywaj nagrody</span>"
 		},
     "nfo": {
 			"fr": "Un jeu d'enfant, en 3 minutes, rentabilisez vos LOOM tant qu'il ne sont pas encore utiles.",
 			"en": "Nothing is easier, it only takes 3 minutes, make profit out of your LOOMs while you can't do anything with them so far.",
 			"jp": "簡単なことは何もありません、それは3分しかかかりません、あなたがこれまでのところ彼らと何もすることができない間あなたの織機から利益を得ます",
-	    		"pl": "To bardzo łatwe i zajmuje tylko 3 minuty, zarabiaj dzięki swoim LOOM-om"
+	    		"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM"
 		},
 		"stake": {
 			"fr": "Stakez vos LOOM",
@@ -96,7 +96,7 @@ const txt = {
 			"fr": "Rejoignez nous sur Telegram pour poser des questions ou nous rencontrer: <span class=\"fluo\">#StakeHeyNetwork</span>",
 			"en": "Hey Loomers ! We, at <span class=\"fluo\">#Hey</span>, are almost ready to give you tons of information about <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Staking</span> and <span class=\"fluo\">#Rewards</span>. Put your Looms at use and make some returns!",
 			"jp": "<span class=\"fluo\">#HeyNetwork</span> のディスカッションに参加しましょう",
-	    		"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dać was informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje LOOM-y by dzięki nim zarobić!"
+	    		"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!"
 		},
 		"footer":{
 			"copyright":{
