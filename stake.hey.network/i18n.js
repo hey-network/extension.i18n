@@ -28,7 +28,7 @@ const LANGUAGES_LIST = {
 	"fr": "Français",
 	"jp": "日本語",
 	"cn": "华语",
-	"pl": "Polski"
+	"pl": "Polski",
 };
 const txt = {
 	"general": {
@@ -37,14 +37,14 @@ const txt = {
 			"en": "OK",
 			"jp": "OK",
 			"cn": "OK",
-			"pl": "OK"
+			"pl": "OK",
 		},
 		"cancel": {
 			"fr": "Annuler",
 			"en": "Cancel",
 			"jp": "キャンセル",
 			"cn": "取消",
-			"pl": "Anuluj"
+			"pl": "Anuluj",
 		}
 	},
 	"home": {
@@ -53,63 +53,63 @@ const txt = {
 			"en": "Start",
 			"jp": "開始",
 			"cn": "开始",
-			"pl": "Start"
+			"pl": "Start",
 		},
 		"whatishey": {
 			"fr": "Qu'est ce que Hey?",
 			"en": "What is Hey?",
 			"jp": "ちょっと何ですか？",
 			"cn": "Hey 是什么？",
-			"pl": "Czym jest Hey?"
+			"pl": "Czym jest Hey?",
 		},
 		"premiumForLife": {
 			"fr": "Premium à vie",
 			"en": "Premium for life",
 			"jp": "人生のためのプレミアム",
 			"cn": "终身保费",
-			"pl": "Premium - na całe życie"
+			"pl": "Premium - na całe życie",
 		},
 		"forTheFirst": {
 			"fr": "Pour le premier Million d'inscrits",
 			"en": "for first 1M users",
 			"jp": "最初の100万人のユーザー向け",
 			"cn": "对于前100万个的用户",
-			"pl": "dla pierwszego miliona użytkowników"
+			"pl": "dla pierwszego miliona użytkowników",
 		},
 		"title": {
 			"fr": "Délégez vos <span class=\"grad\">LOOM</span> et <span class=\"grad\">gagnez en encore plus</span>",
 			"en": "Delegate <span class=\"grad\">LOOM</span> and <span class=\"grad\">earn rewards</span>",
 			"jp": "<span class=\"grad\">#ハッシュ</span> と <span class=\"grad\">トレンドトピックでチャット</span>",
 			"cn": "委派<span class=\"grad\">LOOM</span>并<span class=\"grad\">获得奖励</span>",
-			"pl": "Delegat <span class=\"grad\">LOOM</span> - <span class=\"grad\">zdobywaj nagrody</span>"
+			"pl": "Delegat <span class=\"grad\">LOOM</span> - <span class=\"grad\">zdobywaj nagrody</span>",
 		},
 		"nfo": {
 			"fr": "Un jeu d'enfant, en 3 minutes, rentabilisez vos LOOM tant qu'il ne sont pas encore utiles.",
 			"en": "Nothing is easier, it only takes 3 minutes, make profit out of your LOOMs while you can't do anything with them so far.",
 			"jp": "簡単なことは何もありません、それは3分しかかかりません、あなたがこれまでのところ彼らと何もすることができない間あなたの織機から利益を得ます",
 			"cn": "没有什么比这更容易，只需要3分钟，虽然目前LOOMs没办法为你做任何事情, 但你可以用你的LOOMs而获得利润。",
-			"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM"
+			"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM",
 		},
 		"stake": {
 			"fr": "Stakez vos LOOM",
 			"en": "Stake with us!",
 			"jp": "私たちとステーク",
 			"cn": "与我们一起用权益并获得奖励！",
-			"pl": "Zarabiaj z nami"
+			"pl": "Zarabiaj z nami",
 		},
 		"telegram": {
 			"fr": "Rejoindre sur Telegram",
 			"en": "Join us on Telegram",
 			"jp": "Telegram で私たちに参加",
 			"cn": "加入我们的电报",
-			"pl": "Dołącz do nas na Telegramie"
+			"pl": "Dołącz do nas na Telegramie",
 		},
 		"join": {
 			"fr": "Rejoignez nous sur Telegram pour poser des questions ou nous rencontrer: <span class=\"fluo\">#StakeHeyNetwork</span>",
 			"en": "Hey Loomers ! We, at <span class=\"fluo\">#Hey</span>, are almost ready to give you tons of information about <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Staking</span> and <span class=\"fluo\">#Rewards</span>. Put your Looms at use and make some returns!",
 			"jp": "<span class=\"fluo\">#HeyNetwork</span> のディスカッションに参加しましょう",
 			"cn": "嘿Loomers！我们在<span class=\"fluo\">#Hey</span>，差不多已经准备好给你们很多有关#Loom，＃权益代币和#奖励的信息。你们可以利用你的LOOM并获得一些利润！",
-			"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!"
+			"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!",
 		},
 		"footer": {
 			"copyright": {
@@ -117,49 +117,49 @@ const txt = {
 				"en": "Copyright",
 				"jp": "著作権",
 				"cn": "版权",
-				"pl": "Prawa autorskie"
+				"pl": "Prawa autorskie",
 			},
 			"rights": {
 				"fr": "Tous droits réservés.",
 				"en": "All rights Reserved.",
 				"jp": "全著作権所有",
 				"cn": "版权所有。",
-				"pl": "Wszelkie prawa zastrzeżone."
+				"pl": "Wszelkie prawa zastrzeżone.",
 			},
 			"aboutUs": {
 				"fr": "A propos",
 				"en": "About us",
 				"jp": "私たちに関しては",
 				"cn": "关于我们",
-				"pl": "O nas"
+				"pl": "O nas",
 			},
 			"manifesto": {
 				"fr": "Manifesto",
 				"en": "Manifesto",
 				"jp": "マニフェスト",
 				"cn": "宣言",
-				"pl": "Manifest"
+				"pl": "Manifest",
 			},
 			"support": {
 				"fr": "Support",
 				"en": "Support",
 				"jp": "補助",
 				"cn": "客服",
-				"pl": "Wsparcie"
+				"pl": "Wsparcie",
 			},
 			"contactUs": {
 				"fr": "Contactez-nous",
 				"en": "Contact us",
 				"jp": "お問い合わせ",
 				"cn": "联系我们",
-				"pl": "Kontakt"
+				"pl": "Kontakt",
 			},
 			"stakingGuide": {
 				"fr": "Guide de <em>Staking</em>",
 				"en": "Staking Guide",
 				"jp": "<em>Staking</em>ガイド",
 				"cn": "权益代币的指南",
-				"pl": "Przewodnik - jak zarabiać"
+				"pl": "Przewodnik - jak zarabiać",
 			},
 			"website": {
 				"fr": "Site web Hey",
@@ -173,7 +173,7 @@ const txt = {
 				"en": "Dashboard",
 				"jp": "計器盤",
 				"cn": "仪表盘",
-				"pl": "Panel"
+				"pl": "Panel",
 			}
 		}
 	}
