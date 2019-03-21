@@ -94,7 +94,7 @@ const txt = {
 			"fr": "Stakez vos LOOM",
 			"en": "Stake with us!",
 			"jp": "私たちとステーク",
-			"cn": "与我们一起用权益并获得奖励！",
+			"cn": "和我们一起收币利息吧！",
 			"pl": "Zarabiaj z nami",
 		},
 		"telegram": {
