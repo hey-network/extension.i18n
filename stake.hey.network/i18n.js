@@ -88,7 +88,7 @@ const txt = {
 			"en": "Nothing is easier, it only takes 3 minutes, make profit out of your LOOMs while you can't do anything with them so far.",
 			"jp": "簡単なことは何もありません、それは3分しかかかりません、あなたがこれまでのところ彼らと何もすることができない間あなたの織機から利益を得ます",
 			"cn": "没有什么比这更容易，只需要3分钟，虽然目前LOOMs没办法为你做任何事情, 但你可以用你的LOOMs而获得利润。",
-			"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM",
+			"pl": "To bardzo proste i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM",
 		},
 		"stake": {
 			"fr": "Stakez vos LOOM",
@@ -109,7 +109,7 @@ const txt = {
 			"en": "Hey Loomers ! We, at <span class=\"fluo\">#Hey</span>, are almost ready to give you tons of information about <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Staking</span> and <span class=\"fluo\">#Rewards</span>. Put your Looms at use and make some returns!",
 			"jp": "<span class=\"fluo\">#HeyNetwork</span> のディスカッションに参加しましょう",
 			"cn": "嘿Loomers！我们在<span class=\"fluo\">#Hey</span>，差不多已经准备好给你们很多有关#Loom，＃权益代币和#奖励的信息。你们可以利用你的LOOM并获得一些利润！",
-			"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacje <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!",
+			"pl": "Hej Loomersi! My w <span class=\"fluo\">#Hey</span> jesteśmy prawie gotowi by dostarczyć wam informacji <span class=\"fluo\">#Loom</span>, <span class=\"fluo\">#Zarobek</span> i <span class=\"fluo\">#Nagrody</span>. Wykorzystaj swoje tokeny LOOM by dzięki nim zarabiać!",
 		},
 		"footer": {
 			"copyright": {
