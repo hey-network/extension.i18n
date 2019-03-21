@@ -88,7 +88,7 @@ const txt = {
 			"en": "Nothing is easier, it only takes 3 minutes, make profit out of your LOOMs while you can't do anything with them so far.",
 			"jp": "簡単なことは何もありません、それは3分しかかかりません、あなたがこれまでのところ彼らと何もすることができない間あなたの織機から利益を得ます",
 			"cn": "没有什么比这更容易，只需要3分钟，虽然目前LOOMs没办法为你做任何事情, 但你可以用你的LOOMs而获得利润。",
-			"pl": "To bardzo łatwe i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM",
+			"pl": "To bardzo proste i zajmuje tylko 3 minuty! Zarabiaj dzięki swoim tokenom LOOM",
 		},
 		"stake": {
 			"fr": "Stakez vos LOOM",
