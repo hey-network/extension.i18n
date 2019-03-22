@@ -66,7 +66,7 @@ const txt = {
 			"fr": "Premium à vie",
 			"en": "Premium for life",
 			"jp": "人生のためのプレミアム",
-			"cn": "终身保费",
+			"cn": "终身奖励",
 			"pl": "Premium - na całe życie",
 		},
 		"forTheFirst": {
@@ -80,7 +80,7 @@ const txt = {
 			"fr": "Délégez vos <span class=\"grad\">LOOM</span> et <span class=\"grad\">gagnez en encore plus</span>",
 			"en": "Delegate <span class=\"grad\">LOOM</span> and <span class=\"grad\">earn rewards</span>",
 			"jp": "<span class=\"grad\">#ハッシュ</span> と <span class=\"grad\">トレンドトピックでチャット</span>",
-			"cn": "委派<span class=\"grad\">LOOM</span>并<span class=\"grad\">获得奖励</span>",
+			"cn": "利用<span class=\"grad\">LOOM</span>并<span class=\"grad\">获得奖励</span>",
 			"pl": "Delegat <span class=\"grad\">LOOM</span> - <span class=\"grad\">zdobywaj nagrody</span>",
 		},
 		"nfo": {
@@ -94,7 +94,7 @@ const txt = {
 			"fr": "Stakez vos LOOM",
 			"en": "Stake with us!",
 			"jp": "私たちとステーク",
-			"cn": "和我们一起收币利息吧！",
+			"cn": "和我们一起抵押代币吧！",
 			"pl": "Zarabiaj z nami",
 		},
 		"telegram": {
