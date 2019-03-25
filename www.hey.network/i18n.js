@@ -91,11 +91,11 @@ const txt = {
 			"pl": "Dołącz do dyskusji na <span class=\"fluo\">#HeyNetwork</span>"
 		},
 		"choose": {
-			"fr": "Choisissez votre <span class=\"fluo\">#hashtag</span>,",
-			"en": "Choose your<br /><span class=\"grad\">#hashtag</span>,",
-			"jp": "<span class=\"grad\">＃ハッシュタグ</span><br />を選択してください,",
+			"fr": "Choisissez votre <span class=\"fluo\">#hashtag</span>",
+			"en": "Choose your<br /><span class=\"grad\">#hashtag</span>",
+			"jp": "<span class=\"grad\">＃ハッシュタグ</span><br />を選択してください",
 			"cn": "选择你的<br/><span class=\“grad\”>#hashtag</span>",
-			"pl": "Wybierz swój<br /><span class=\"grad\">#hashtag</span>,"
+			"pl": "Wybierz swój<br /><span class=\"grad\">#hashtag</span>"
 		},
 		"chooseNfo": {
 			"fr": "Rejoingez un chat, découvrez du nouveau contenu, suivez vos amis, inscrivez vous aux #hashtags, et gagnez votre reputation.",
