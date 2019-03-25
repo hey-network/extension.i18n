@@ -73,7 +73,7 @@ const txt = {
 			"fr": "Chattez par <span class=\"grad\">#hashtag</span> et <span class=\"grad\">sujets tendance</span>",
 			"en": "Chat by <span class=\"grad\">#hashtag</span> and <span class=\"grad\">trending topic</span>",
 			"jp": "<span class=\"grad\">#ハッシュ</span> と <span class=\"grad\">トレンドトピックでチャット</span>",
-			"cn": "通过<span class=\“grad\”>＃hashtag </span>和<span class=\“grad\”>趋势主题</span>聊天",
+			"cn": "通过<span class=\"grad\">＃hashtag </span>和<span class=\"grad\">趋势主题</span>聊天",
 			"pl": "Czatuj przez <span class=\"grad\">#hashtag</span>, <span class=\"grad\">trendy</span>"
 		},
 		"chatNfo": {
@@ -87,14 +87,14 @@ const txt = {
 			"fr": "Rejoignez la discussion sur <span class=\"fluo\">#HeyNetwork</span>",
 			"en": "Join the discussion on <span class=\"fluo\">#HeyNetwork</span>",
 			"jp": "<span class=\"fluo\">#HeyNetwork</span> のディスカッションに参加しましょう",
-			"cn": "加入关于<span class=\“fluo \”>＃HeyNetwork</span>的讨论",
+			"cn": "加入关于<span class=\"fluo \">＃HeyNetwork</span>的讨论",
 			"pl": "Dołącz do dyskusji na <span class=\"fluo\">#HeyNetwork</span>"
 		},
 		"choose": {
 			"fr": "Choisissez votre <span class=\"fluo\">#hashtag</span>",
 			"en": "Choose your<br /><span class=\"grad\">#hashtag</span>",
 			"jp": "<span class=\"grad\">＃ハッシュタグ</span><br />を選択してください",
-			"cn": "选择你的<br/><span class=\“grad\”>#hashtag</span>",
+			"cn": "选择你的<br/><span class=\"grad\">#hashtag</span>",
 			"pl": "Wybierz swój<br /><span class=\"grad\">#hashtag</span>"
 		},
 		"chooseNfo": {
@@ -115,7 +115,7 @@ const txt = {
 			"fr": "Zero <span class=\"grad\">publicité</span>",
 			"en": "Go <span class=\"grad\">ad-free</span>",
 			"jp": "広告無料",
-			"cn": "无<span class=\“grad\”>广告</span>",
+			"cn": "无<span class=\"grad\">广告</span>",
 			"pl": "<span class=\"grad\">Bez reklam</span>"
 		},
 		"adfreeNfo": {
@@ -150,7 +150,7 @@ const txt = {
 			"fr": "Installez l'<span class=\"fluo\">App</span> maintenant!",
 			"en": "Download the <span class=\"fluo\">App</span> now!",
 			"jp": "今すぐア<span class=\"fluo\">プリを</span>ダウンロード！",
-			"cn": "立即下载<span class=\“fluo\”>应用</span>！",
+			"cn": "立即下载<span class=\"fluo\">应用</span>！",
 			"pl": "Pobierz <span class=\"fluo\">Aplikację</span> teraz!"
 		},
 		"footer": {
