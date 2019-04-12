@@ -1,0 +1,3 @@
+[submodule "mobile.hey.network"]
+	path = mobile.hey.network
+	url = git@github.com:hey-network/i18n.mobile.hey.network.git
